@@ -1,0 +1,2 @@
+C:\Temp\App4\Microsoft.TED.WinRT.Modules.Tests\Microsoft.TED.WinRT.Modules.Tests.csproj;x86
+C:\Temp\App4\Microsoft.TED.WinRT.Modules\Microsoft.TED.WinRT.Modules.csproj;neutral

@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\work\tfs\modularity-github\sample\microsoft.ted.compositelobdemo.module2\obj\debug\intermediatexaml\microsoft.ted.compositelobdemo.module2.dll" HashGuid="7592f08e-7792-7d2a-8ddf-a4700e733ec3" />
+    <ReferenceAssembly PathName="c:\work\tfs\modularity-github\packages\caliburn.micro.core.2.0.1\lib\portable-net45+win8+wp8+wpa81\caliburn.micro.dll" HashGuid="f11d167d-4c80-24dd-7432-f29aabac12b1" />
+    <ReferenceAssembly PathName="c:\work\tfs\modularity-github\sample\microsoft.ted.compositelobdemo.sharedmodule\bin\debug\microsoft.ted.compositelobdemo.sharedmodule.dll" HashGuid="764cf747-6374-c4af-dc3f-5fec6656c11d" />
+    <ReferenceAssembly PathName="c:\work\tfs\modularity-github\microsoft.ted.winrt.modularhub\bin\debug\microsoft.ted.winrt.modularhub.dll" HashGuid="e707662b-eadd-f3f2-1e6b-bac6e4a37e5e" />
+    <ReferenceAssembly PathName="c:\work\tfs\modularity-github\microsoft.ted.winrt.modules\bin\debug\microsoft.ted.winrt.modules.dll" HashGuid="0cea1d4a-a1f5-1bab-d727-5e17a3a49a3f" />
+    <ReferenceAssembly PathName="c:\program files (x86)\reference assemblies\microsoft\framework\.netportable\v4.6\profile\profile32\mscorlib.dll" HashGuid="95b3d13b-e7bf-e4c5-4c77-8abe05a06981" />
+    <ReferenceAssembly PathName="c:\work\tfs\modularity-github\packages\propertychanged.fody.1.48.5\lib\portable-net4+sl4+wp8+win8+wpa81+monoandroid16+monotouch40\propertychanged.dll" HashGuid="433e4cea-772f-b16d-9a89-69fb9238cba5" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

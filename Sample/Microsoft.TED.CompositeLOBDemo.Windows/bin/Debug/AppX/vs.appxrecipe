@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MKNOR1WIN8</Machine>
+    <WindowsUser>mknor</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3186b831-a608-4b17-9544-6e084187b876</PackageIdentityName>
+    <IntermediateOutputPath>C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>4F1DC3113EAD4CC0CC78472E5D170E8EF51CA98530BB3A408F33CE47D26730B3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3186b831-a608-4b17-9544-6e084187b876_1.0.0.0_neutral__tx6v70drqnpa8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3186b831-a608-4b17-9544-6e084187b876_tx6v70drqnpa8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3186b831-a608-4b17-9544-6e084187b876</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=mknor</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-25T14:37:49.458</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Windows\bin\Debug\Microsoft.TED.CompositeLOBDemo.Windows.exe">
+      <PackagePath>Microsoft.TED.CompositeLOBDemo.Windows.exe</PackagePath>
+      <Modified>2014-10-25T14:37:37.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\packages\Caliburn.Micro.Core.2.0.1\lib\portable-net45+win8+wp8+wpa81\Caliburn.Micro.dll">
+      <PackagePath>Caliburn.Micro.dll</PackagePath>
+      <Modified>2014-10-25T14:08:04.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\packages\Caliburn.Micro.2.0.1\lib\win81\Caliburn.Micro.Extensions.dll">
+      <PackagePath>Caliburn.Micro.Extensions.dll</PackagePath>
+      <Modified>2014-10-25T14:08:04.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\packages\Caliburn.Micro.2.0.1\lib\win81\Caliburn.Micro.Platform.dll">
+      <PackagePath>Caliburn.Micro.Platform.dll</PackagePath>
+      <Modified>2014-10-25T14:08:04.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+      <Modified>2014-10-25T14:08:04.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Module1\bin\Debug\Microsoft.TED.CompositeLOBDemo.Module1.dll">
+      <PackagePath>Microsoft.TED.CompositeLOBDemo.Module1.dll</PackagePath>
+      <Modified>2014-10-25T14:34:00.411</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Module2\bin\Debug\Microsoft.TED.CompositeLOBDemo.Module2.dll">
+      <PackagePath>Microsoft.TED.CompositeLOBDemo.Module2.dll</PackagePath>
+      <Modified>2014-10-25T14:34:01.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Microsoft.TED.CompositeLOBDemo.SharedModule.dll">
+      <PackagePath>Microsoft.TED.CompositeLOBDemo.SharedModule.dll</PackagePath>
+      <Modified>2014-10-25T14:28:37.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\Microsoft.TED.WinRT.ModularHub\bin\Debug\Microsoft.TED.WinRT.ModularHub.dll">
+      <PackagePath>Microsoft.TED.WinRT.ModularHub.dll</PackagePath>
+      <Modified>2014-10-25T14:33:59.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\Microsoft.TED.WinRT.Modules\bin\Debug\Microsoft.TED.WinRT.Modules.dll">
+      <PackagePath>Microsoft.TED.WinRT.Modules.dll</PackagePath>
+      <Modified>2014-10-25T14:28:37.009</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\packages\Caliburn.Micro.2.0.1\lib\win81\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2014-10-25T14:08:04.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\packages\Caliburn.Micro.2.0.1\lib\win81\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2014-10-25T14:08:04.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Windows\FodyWeavers.xml">
+      <PackagePath>FodyWeavers.xml</PackagePath>
+      <Modified>2014-10-25T14:37:12.672</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Module1\FodyWeavers.xml">
+      <PackagePath>Microsoft.TED.CompositeLOBDemo.Module1\FodyWeavers.xml</PackagePath>
+      <Modified>2014-10-25T14:29:45.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Module2\FodyWeavers.xml">
+      <PackagePath>Microsoft.TED.CompositeLOBDemo.Module2\FodyWeavers.xml</PackagePath>
+      <Modified>2014-10-25T14:30:07.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-25T14:20:55.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Windows\bin\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+      <Modified>2014-10-25T14:20:55.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Module1\bin\Debug\Views\SheepListView.xbf">
+      <PackagePath>Microsoft.TED.CompositeLOBDemo.Module1\Views\SheepListView.xbf</PackagePath>
+      <Modified>2014-10-25T14:28:39.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Module2\bin\Debug\Views\CatListView.xbf">
+      <PackagePath>Microsoft.TED.CompositeLOBDemo.Module2\Views\CatListView.xbf</PackagePath>
+      <Modified>2014-10-25T14:20:50.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Windows\bin\Debug\Microsoft.TED.CompositeLOBDemo.Windows.xr.xml">
+      <PackagePath>Microsoft.TED.CompositeLOBDemo.Windows.xr.xml</PackagePath>
+      <Modified>2014-10-22T19:23:59.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Module1\bin\Debug\Microsoft.TED.CompositeLOBDemo.Module1.xr.xml">
+      <PackagePath>Microsoft.TED.CompositeLOBDemo.Module1\Microsoft.TED.CompositeLOBDemo.Module1.xr.xml</PackagePath>
+      <Modified>2014-10-24T17:25:05.259</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Module2\bin\Debug\Microsoft.TED.CompositeLOBDemo.Module2.xr.xml">
+      <PackagePath>Microsoft.TED.CompositeLOBDemo.Module2\Microsoft.TED.CompositeLOBDemo.Module2.xr.xml</PackagePath>
+      <Modified>2014-10-24T17:25:05.275</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-25T14:37:49.267</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

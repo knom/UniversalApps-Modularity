@@ -1,0 +1,11 @@
+C:\Work\TFS\Modularity-Github\Microsoft.TED.WinRT.ModularHub\Microsoft.TED.WinRT.ModularHub.csproj;neutral
+C:\Work\TFS\Modularity-Github\Microsoft.TED.WinRT.ModularHub\Microsoft.TED.WinRT.ModularHub.csproj;neutral
+C:\Work\TFS\Modularity-Github\Microsoft.TED.WinRT.ModularHub\Microsoft.TED.WinRT.ModularHub.csproj;neutral
+C:\Work\TFS\Modularity-Github\Microsoft.TED.WinRT.Modules\Microsoft.TED.WinRT.Modules.csproj;neutral
+C:\Work\TFS\Modularity-Github\Microsoft.TED.WinRT.Modules\Microsoft.TED.WinRT.Modules.csproj;neutral
+C:\Work\TFS\Modularity-Github\Microsoft.TED.WinRT.Modules\Microsoft.TED.WinRT.Modules.csproj;neutral
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Module1\Microsoft.TED.CompositeLOBDemo.Module1.csproj;neutral
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.Module2\Microsoft.TED.CompositeLOBDemo.Module2.csproj;neutral
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\Microsoft.TED.CompositeLOBDemo.SharedModule.csproj;neutral
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\Microsoft.TED.CompositeLOBDemo.SharedModule.csproj;neutral
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.WindowsPhone\Microsoft.TED.CompositeLOBDemo.WindowsPhone.csproj;neutral

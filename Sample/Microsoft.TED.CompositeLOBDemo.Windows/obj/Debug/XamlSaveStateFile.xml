@@ -1,0 +1,17 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\work\tfs\modularity-github\sample\microsoft.ted.compositelobdemo.windows\obj\debug\intermediatexaml\microsoft.ted.compositelobdemo.windows.exe" HashGuid="9c0c27a1-f2d1-4b5a-f421-016ed7b74acb" />
+    <ReferenceAssembly PathName="c:\work\tfs\modularity-github\packages\caliburn.micro.core.2.0.1\lib\portable-net45+win8+wp8+wpa81\caliburn.micro.dll" HashGuid="f11d167d-4c80-24dd-7432-f29aabac12b1" />
+    <ReferenceAssembly PathName="c:\work\tfs\modularity-github\packages\caliburn.micro.2.0.1\lib\win81\caliburn.micro.extensions.dll" HashGuid="b838104e-3d35-74c6-b033-10dda8d12ff5" />
+    <ReferenceAssembly PathName="c:\work\tfs\modularity-github\packages\caliburn.micro.2.0.1\lib\win81\caliburn.micro.platform.dll" HashGuid="ebfa6736-34e8-85c9-3b7b-d271350880fc" />
+    <ReferenceAssembly PathName="c:\work\tfs\modularity-github\packages\commonservicelocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\microsoft.practices.servicelocation.dll" HashGuid="89de7f80-26d8-a17c-5ad9-b855f81ea5b2" />
+    <ReferenceAssembly PathName="c:\work\tfs\modularity-github\sample\microsoft.ted.compositelobdemo.module1\bin\debug\microsoft.ted.compositelobdemo.module1.dll" HashGuid="b023cc53-6640-7608-f4d7-64ef0e9888ed" />
+    <ReferenceAssembly PathName="c:\work\tfs\modularity-github\sample\microsoft.ted.compositelobdemo.module2\bin\debug\microsoft.ted.compositelobdemo.module2.dll" HashGuid="384005ec-ad4b-ce8e-95a6-af2203a0ee3f" />
+    <ReferenceAssembly PathName="c:\work\tfs\modularity-github\sample\microsoft.ted.compositelobdemo.sharedmodule\bin\debug\microsoft.ted.compositelobdemo.sharedmodule.dll" HashGuid="764cf747-6374-c4af-dc3f-5fec6656c11d" />
+    <ReferenceAssembly PathName="c:\work\tfs\modularity-github\microsoft.ted.winrt.modularhub\bin\debug\microsoft.ted.winrt.modularhub.dll" HashGuid="e707662b-eadd-f3f2-1e6b-bac6e4a37e5e" />
+    <ReferenceAssembly PathName="c:\work\tfs\modularity-github\microsoft.ted.winrt.modules\bin\debug\microsoft.ted.winrt.modules.dll" HashGuid="0cea1d4a-a1f5-1bab-d727-5e17a3a49a3f" />
+    <ReferenceAssembly PathName="c:\work\tfs\modularity-github\packages\caliburn.micro.2.0.1\lib\win81\microsoft.xaml.interactions.dll" HashGuid="95a94f94-3917-d473-4f7c-18c4bd437046" />
+    <ReferenceAssembly PathName="c:\work\tfs\modularity-github\packages\caliburn.micro.2.0.1\lib\win81\microsoft.xaml.interactivity.dll" HashGuid="d25f59e6-dd81-900a-0dfc-55b39f6898ef" />
+    <ReferenceAssembly PathName="c:\work\tfs\modularity-github\packages\propertychanged.fody.1.48.5\lib\portable-net4+sl4+wp8+win8+wpa81+monoandroid16+monotouch40\propertychanged.dll" HashGuid="433e4cea-772f-b16d-9a89-69fb9238cba5" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

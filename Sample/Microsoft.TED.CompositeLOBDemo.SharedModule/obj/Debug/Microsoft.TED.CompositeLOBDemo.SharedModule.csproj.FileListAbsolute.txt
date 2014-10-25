@@ -1,0 +1,50 @@
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Microsoft.TED.CompositeLOBDemo.SharedModule.dll
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Microsoft.TED.CompositeLOBDemo.SharedModule.pdb
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Microsoft.TED.CompositeLOBDemo.SharedModule.pri
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Microsoft.TED.WinRT.Modules.dll
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Microsoft.TED.WinRT.Modules.pdb
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Microsoft.TED.WinRT.Modules.pri
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\Microsoft.TED.CompositeLOBDemo.SharedModule.csprojResolveAssemblyReference.cache
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\Microsoft.TED.CompositeLOBDemo.SharedModule.dll
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\Microsoft.TED.CompositeLOBDemo.SharedModule.pdb
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\priconfig.xml
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\priconfig.xml.intermediate
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\layout.resfiles
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\layout.resfiles.intermediate
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\resources.resfiles
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\resources.resfiles.intermediate
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\pri.resfiles
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\pri.resfiles.intermediate
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\qualifiers.txt
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\qualifiers.txt.intermediate
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Caliburn.Micro.dll
+C:\work\Events\TechEd Europe\Demos\Microsoft.TED.CompositeLOBDemo\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Caliburn.Micro.xml
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Microsoft.TED.CompositeLOBDemo.SharedModule.dll
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Microsoft.TED.CompositeLOBDemo.SharedModule.pdb
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Microsoft.TED.CompositeLOBDemo.SharedModule.pri
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Caliburn.Micro.dll
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Microsoft.TED.WinRT.Modules.dll
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Microsoft.TED.WinRT.Modules.pdb
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Microsoft.TED.WinRT.Modules.pri
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Caliburn.Micro.xml
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\Microsoft.TED.CompositeLOBDemo.SharedModule.csprojResolveAssemblyReference.cache
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\Microsoft.TED.CompositeLOBDemo.SharedModule.dll
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\Microsoft.TED.CompositeLOBDemo.SharedModule.pdb
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\priconfig.xml
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\priconfig.xml.intermediate
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\layout.resfiles
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\layout.resfiles.intermediate
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\resources.resfiles
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\resources.resfiles.intermediate
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\pri.resfiles
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\pri.resfiles.intermediate
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\qualifiers.txt
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\qualifiers.txt.intermediate
+C:\Work\TFS\Modularity-Github\Sample\Microsoft.TED.CompositeLOBDemo.SharedModule\obj\Debug\MultipleQualifiersPerDimensionFound.txt
