@@ -6,11 +6,11 @@ A modularity sample for UniversalApps.
 * Microsoft.TED.WinRT.Modules
 Adds a ModuleManager class that loads dependencies in a definable order.
 
+
     ModuleManager manager = new ModuleManager();
     manager.AddModule(name: "Module1", entryPoint: "Module1.Module, Module1", dependsOn: new[] { "Module2", "Module3" });
     manager.AddModule(name: "Module2", entryPoint: "Module2.Module, Module2");
     manager.AddModule(name: "Module2", entryPoint: "Module3.Module, Module3");
-    
     await manager.InitializeAsync();
 
 Each Module has an EntryPoint class, that is being called on initialization:
