@@ -14,6 +14,7 @@ Adds a ModuleManager class that loads dependencies in a definable order.
     await manager.InitializeAsync();
 
 Each Module has an EntryPoint class, that is being called on initialization:
+
     public class Module : IModule
     {
         public async Task InitializeAsync()
@@ -26,10 +27,13 @@ Each Module has an EntryPoint class, that is being called on initialization:
 A WinRT Hub derived control, that can be extended from losely coupled modules.
 
   1) Each Module can add content to a global hub, via an IHubMetadataService singleton:
+  
     _hubMetadataService.AddHubSection("M2", "Cats", typeof(CatListView).AssemblyQualifiedName);
     
   2) Place the hub in a page & bind it:
+  
     <hub:ModularHub ItemsSource="{Binding HubSections}"/>
     
   3) Use the IHubMetadataService singleton to fetch the hub sections from modules in the ViewModel
+  
     this.HubSections = new ObservableCollection<HubMetadata>(_hubMetadataService.GetSections());
