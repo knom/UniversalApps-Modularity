@@ -1,4 +1,4 @@
-UnversalApps-Modularity
+UniversalApps-Modularity
 =======================
 
 A modularity sample for UniversalApps.
