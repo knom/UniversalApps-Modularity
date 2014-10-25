@@ -3,7 +3,7 @@ UnversalApps-Modularity
 
 A modularity sample for UniversalApps.
 
-*) Microsoft.TED.WinRT.Modules
+* Microsoft.TED.WinRT.Modules
 Adds a ModuleManager class that loads dependencies in a definable order.
 
     ModuleManager manager = new ModuleManager();
@@ -23,7 +23,7 @@ Each Module has an EntryPoint class, that is being called on initialization:
         }
     }
 
-*) Microsoft.TED.WinRT.ModularHub
+* Microsoft.TED.WinRT.ModularHub
 A WinRT Hub derived control, that can be extended from losely coupled modules.
 
   1) Each Module can add content to a global hub, via an IHubMetadataService singleton:
