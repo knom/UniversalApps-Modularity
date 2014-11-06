@@ -9,9 +9,11 @@ Microsoft.TED.WinRT.Modules
 Adds a ModuleManager class that loads dependencies in a definable order.
 
     ModuleManager manager = new ModuleManager();
-    manager.AddModule(name: "Module1", entryPoint: "Module1.Module, Module1", dependsOn: new[] { "Module2", "Module3" });
-    manager.AddModule(name: "Module2", entryPoint: "Module2.Module, Module2");
-    manager.AddModule(name: "Module2", entryPoint: "Module3.Module, Module3");
+    manager.AddModule(name: "CarModule", entryPoint: "Module1.Module, Module1", dependsOn: new[] { "VehicleModule"});
+    manager.AddModule(name: "TruckModule", entryPoint: "Module2.Module, Module2", dependsOn: new[] { "VehicleModule"});
+    manager.AddModule(name: "VehicleModule", entryPoint: "Module3.Module, Module3", dependsOn: new[] { "DatabaseModule"});
+    manager.AddModule(name: "BoatModule", entryPoint: "Boats.Module, Boats", dependsOn: new[] { "DatabaseModule"});
+    manager.AddModule(name: "DatabaseModule", entryPoint: "DB.Module, DB");
     await manager.InitializeAsync();
 
 Each Module has an EntryPoint class, that is being called on initialization:
@@ -23,7 +25,8 @@ Each Module has an EntryPoint class, that is being called on initialization:
            // ...
         }
     }
-    
+
+The order in which the modules are initialized is automatically resolved..
 ![modules](https://cloud.githubusercontent.com/assets/3861846/4940121/bdb1fb44-65d7-11e4-9d47-ed0585fef583.png)
 
 Microsoft.TED.WinRT.ModularHub
