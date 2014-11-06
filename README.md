@@ -2,6 +2,8 @@ Modularity for UniversalApps
 =======================
 
 Allow multiple SKUs of your Universal App with loosely coupled modules.
+Works with P&P Prism, Caliburn Micro, etc… and other MVVM frameworks.
+
 Feel free to reuse in your application as-is.
 
 Microsoft.TED.WinRT.Modules
