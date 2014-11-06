@@ -1,7 +1,7 @@
 Modularity for UniversalApps
 =======================
 
-A modularity sample for UniversalApps.
+Allow multiple SKUs of your Universal App with loosely coupled modules.
 Feel free to reuse in your application as-is.
 
 Microsoft.TED.WinRT.Modules
