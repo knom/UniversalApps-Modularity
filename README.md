@@ -1,7 +1,8 @@
-UniversalApps-Modularity
+Modularity for UniversalApps
 =======================
 
 A modularity sample for UniversalApps.
+Feel free to reuse in your application as-is.
 
 Microsoft.TED.WinRT.Modules
 -------------------------------
