@@ -23,6 +23,8 @@ Each Module has an EntryPoint class, that is being called on initialization:
            // ...
         }
     }
+    
+![modules](https://cloud.githubusercontent.com/assets/3861846/4940121/bdb1fb44-65d7-11e4-9d47-ed0585fef583.png)
 
 Microsoft.TED.WinRT.ModularHub
 -------------------------------
